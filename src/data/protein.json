@@ -1,0 +1,1109 @@
+[
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.2174/156802607779318325",
+		"Category (Protein Mimetic)": "cyclic peptide",
+		"Mimic of which Protein": "extracellular matrix proteins that contain the Arg-Gly-Asp (RGD) sequence",
+		"Name of the Protein mimetic": "c(RGDfV)",
+		"Functions": "Integrin antagonist : blocks integrin αVβ3 receptor binding",
+		"Activity": "Inhibits angiogenesis : prevents tumor-induced blood vessel formation"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.2174/156802607779318325",
+		"Category (Protein Mimetic)": "cyclic peptide",
+		"Mimic of which Protein": "Disintegrins",
+		"Name of the Protein mimetic": "ACDCRGDCFCG",
+		"Functions": "acts as an integrin antagonist by blocking the binding of natural ligands to integrin receptors like αVβ3 and αIIbβ3.",
+		"Activity": "It inhibits cell adhesion and migration, disrupting processes such as angiogenesis and tumor progression."
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.2174/156802607779318325",
+		"Category (Protein Mimetic)": "peptide ",
+		"Mimic of which Protein": "clic pentapeptide ",
+		"Name of the Protein mimetic": "diketopiperazine (DKP) ",
+		"Functions": "Mimics peptide structures to support functional side chains.",
+		"Activity": "Acts as an antagonist (specifically for CXCR4)."
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.2174/156802607779318325",
+		"Category (Protein Mimetic)": "cyclic peptide",
+		"Mimic of which Protein": "αIIbβ3 integrin receptor",
+		"Name of the Protein mimetic": "Cyclic RGD-containing disulfide derivative",
+		"Functions": "Antagonist of the αIIbβ3 integrin receptor",
+		"Activity": "Highly active antagonist with extended conformation at Gly residue"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1039/b710425a",
+		"Category (Protein Mimetic)": "Synthetic backbone scaffold",
+		"Mimic of which Protein": " α-helices peptides",
+		"Name of the Protein mimetic": "Terphenyl scaffold",
+		"Functions": "Designed to project sidechain functionality similar to that found in α-helices.",
+		"Activity": "Used as inhibitors of protein–protein interactions"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1039/b710425a",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "human parathyroid hormone (hPTH)",
+		"Name of the Protein mimetic": "Truncated mimetic of human parathyroid hormone (hPTH)",
+		"Functions": "Stabilized by lactam bridges to enhance its biological activity",
+		"Activity": "elivers therapeutic osteogenic agents with high potency."
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1039/b710425a",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "Respiratory syncytial virus (RSV) protein",
+		"Name of the Protein mimetic": "Cyclic pentapeptide scaffold",
+		"Functions": "Mimics the α-turns of the RSV protein.",
+		"Activity": "Inhibits fusion of viral and cell membranes, preventing viral entry into cells."
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1039/b710425a",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": " α-helices peptides",
+		"Name of the Protein mimetic": "Hydrazone-linked peptides",
+		"Functions": "To stabilize α-helical structures by replacing the N-terminal i and i + 4 hydrogen bond with a covalent link",
+		"Activity": "Forms well-defined short α-helices with minimal perturbations to molecular recognition surfaces."
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1039/b710425a",
+		"Category (Protein Mimetic)": "Synthetic scaffold",
+		"Mimic of which Protein": "Marine toxin-related α-helical structures",
+		"Name of the Protein mimetic": "Trans-fused tetracyclic ethers",
+		"Functions": "To create a receptor for sequence-selective binding of spaced aspartate pairs on the surface of α-helical peptides.",
+		"Activity": "Intended to disrupt protein–protein interactions and bind larger areas in a cell-permeable manner"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1039/b710425a",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": " α-helices peptides",
+		"Name of the Protein mimetic": "Carbon–Carbon Linked Peptides",
+		"Functions": "Introduces a carbon–carbon bond to stabilize the helical structure.",
+		"Activity": "Results in well-defined short α-helices from sequences that do not spontaneously form helices, with minimal perturbations to their molecular recognition surfaces"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1039/b710425a",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "TTTT(Type I antifreeze proteins (AFPs))",
+		"Name of the Protein mimetic": "15-residue peptide with a single Thr repeat and i, i + 4 lactam bridge",
+		"Functions": "Stabilizes a pyramidal plane on the surface of growing ice crystals.",
+		"Activity": "Shows potential antifreeze activity, but not as effective as TTTT."
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1039/b710425a",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "TTTT(Type I antifreeze proteins (AFPs))",
+		"Name of the Protein mimetic": "Ala-rich peptides with spaced Lys residues",
+		"Functions": "Exhibits antifreeze activity.",
+		"Activity": "Weaker antifreeze activity compared to TTTT."
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+		"Category (Protein Mimetic)": "Connexin mimetic peptide",
+		"Mimic of which Protein": "Cx43",
+		"Name of the Protein mimetic": "43Gap26",
+		"Functions": "Inhibits gap junction channel formation",
+		"Activity": "Attenuates junctional conductance over time"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+		"Category (Protein Mimetic)": "Connexin mimetic peptide",
+		"Mimic of which Protein": "Cx43",
+		"Name of the Protein mimetic": "43Gap27",
+		"Functions": "Inhibits gap junction channel formation",
+		"Activity": "No acute effect but moderate long-term attenuation of membrane conductance"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+		"Category (Protein Mimetic)": "Connexin mimetic peptide",
+		"Mimic of which Protein": "Cx32",
+		"Name of the Protein mimetic": "32Gap24",
+		"Functions": "Attenuates nonjunctional membrane conductance",
+		"Activity": "No acute effect on membrane conductance"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+		"Category (Protein Mimetic)": "Connexin chimera",
+		"Mimic of which Protein": "Cx32 (with sequence from Cx43)",
+		"Name of the Protein mimetic": "Cx32E143",
+		"Functions": "Forms both gap junction channels and nonjunctional conductance",
+		"Activity": "Provides a model to study Cx32 channels"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+		"Category (Protein Mimetic)": "Pannexin mimetic peptide",
+		"Mimic of which Protein": "Pannexin-1",
+		"Name of the Protein mimetic": "PanxE1b",
+		"Functions": "Mimics extracellular loop sequences of pannexin1",
+		"Activity": "Inhibits pannexin currents by more than 10%."
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+		"Category (Protein Mimetic)": "Pannexin mimetic peptide",
+		"Mimic of which Protein": "Pannexin-1",
+		"Name of the Protein mimetic": "10Panx1",
+		"Functions": "Blocks pannexin-1 channel activity",
+		"Activity": "Inhibits pannexin-1 channels; used to study ATP release and intercellular calcium wave propagation"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1002/anie.200700657",
+		"Category (Protein Mimetic)": "α-helix mimetic",
+		"Mimic of which Protein": "Coactivator LXXLL motif",
+		"Name of the Protein mimetic": "Biaryl scaffold (with ortho substituent)",
+		"Functions": "Mimics i, i+3, and i+4 residues of an α-helix",
+		"Activity": "Inhibits helix–protein interactions, specifically mimicking LXXLL motif"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.4161/auto.4237",
+		"Category (Protein Mimetic)": "BH3 mimetic",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "ABT737",
+		"Functions": "Competitively inhibits the interaction between Beclin 1 and Bcl-2/Bcl-XL, which stimulates autophagy",
+		"Activity": "ABT737 disrupts the inhibitory complex between Beclin 1 and Bcl-2/Bcl-XL, thus promoting autophagy by liberating Beclin 1 from its inhibition"
+	},
+	{
+		"Paper publish year": "2007",
+		"DOI": "https://doi.org/10.1158/0008-5472.CAN-07-5173",
+		"Category (Protein Mimetic)": "Smac mimetic compound",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "LBW242",
+		"Functions": "argets inhibitor of apoptosis proteins (IAPs) such as XIAP and cIAP1, leading to the induction of apoptosis in cancer cells",
+		"Activity": "induces apoptosis in cancer cells by activating caspase-8, increasing TNFa expression, and overcoming drug resistance."
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1002/bip.20979",
+		"Category (Protein Mimetic)": "Quaternary Protein Mimetic",
+		"Mimic of which Protein": "gp41",
+		"Name of the Protein mimetic": "3α -N36",
+		"Functions": "Mimics the fusogenic state of HIV-1 gp41",
+		"Activity": "Elicits neutralizing antibodies against HIV-1, inhibits viral infectivity"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1002/bip.20979",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "Amyloid β-peptide (Aβ)",
+		"Name of the Protein mimetic": "D-[chGly-Tyr-chGly-chGly-mLeu]-NH2",
+		"Functions": "Acts as an indicator for existing mature Aβ fibrils and may be used to screen for peptide-based compounds capable of binding to Aβ fibrils",
+		"Activity": "Binds to Aβ fibrils and initiates fibrillization"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1002/bip.20979",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "Amyloid β-peptide (Aβ)",
+		"Name of the Protein mimetic": "KLVFF",
+		"Functions": "Reduces the toxicity of Aβ to neuronal cells by coassembling with mature Aβ fibrils and soluble oligomers",
+		"Activity": "Binds to Aβ fibrils"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1002/bip.20979",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "Amyloid β-peptide (Aβ)",
+		"Name of the Protein mimetic": "LVFFA",
+		"Functions": "Reduces the toxicity of Aβ to neuronal cells by coassembling with mature Aβ fibrils and soluble oligomers",
+		"Activity": "Binds to Aβ fibrils"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1002/bip.20979",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "Amyloid β-peptide (Aβ)",
+		"Name of the Protein mimetic": "AP13Q",
+		"Functions": "recognizing Aβ and preventing its oligomerization",
+		"Activity": "Binds to Aβ fibrils"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1002/bip.20979",
+		"Category (Protein Mimetic)": "Peptide mimetic",
+		"Mimic of which Protein": "Amyloid β-peptide (Aβ)",
+		"Name of the Protein mimetic": "P13H",
+		"Functions": "Reduces the toxicity of Aβ to neuronal cells",
+		"Activity": "Inhibits Aβ oligomerization"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1016/j.drudis.2008.07.008",
+		"Category (Protein Mimetic)": "protein epitope mimetic ",
+		"Mimic of which Protein": "Protegrin I",
+		"Name of the Protein mimetic": "IB367 (Iseganan)",
+		"Functions": "in clinical trials for the treat- ment of oral mucositis",
+		"Activity": "antimicrobial activity and a considerably reduced hemolytic activ- ity on red blood cells"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1016/j.cbpa.2008.09.023",
+		"Category (Protein Mimetic)": "binding site mimetic",
+		"Mimic of which Protein": "gp120",
+		"Name of the Protein mimetic": "Synthetic CD4-binding site mimetic",
+		"Functions": "Designed to mimic the CD4-binding site of gp120",
+		"Activity": "Antibodies raised against this mimetic recognize the gp120, compete with the broadly neutralizing antibody mAb b12, whose epitope overlaps the CD4-binding site, for binding to gp120"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.1042/BST0361414",
+		"Category (Protein Mimetic)": "proteomimetic inhibitors",
+		"Mimic of which Protein": "smMLCK (smooth muscle myosin light-chain kinase)",
+		"Name of the Protein mimetic": "The terphenyl scaffold",
+		"Functions": "Disrupts protein–protein interactions",
+		"Activity": "binds to calmodulin using an α-helical domain"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.2174/187152708783885174",
+		"Category (Protein Mimetic)": "Peptidomimetic",
+		"Mimic of which Protein": "pharmacophores of mAb 5C3 and NGF peptide analogues",
+		"Name of the Protein mimetic": "D3",
+		"Functions": "Neuroprotective agent",
+		"Activity": "proteolytically stable agonist of the TrkA receptor, can activate a tyrosine kinase neurotrophin receptor that normally binds a relatively large protein ligand"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.2174/187152708783885174",
+		"Category (Protein Mimetic)": "Peptidomimetic",
+		"Mimic of which Protein": "pharmacophores of mAb 5C3 and NGF peptide analogues",
+		"Name of the Protein mimetic": "C59",
+		"Functions": "-",
+		"Activity": "Lacked neurotrophic effects"
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.2174/187152708783885174",
+		"Category (Protein Mimetic)": "Cyclic peptide",
+		"Mimic of which Protein": "N-cadherin",
+		"Name of the Protein mimetic": "N-Ac-CHAVDINGHAVDICNH2 (SW4)",
+		"Functions": "Promotes survival of primary CNS neurons",
+		"Activity": "It functions by binding to and clustering N-cadherin in neurons, activating an N-cadherin/FGF signaling cascade, which is neuroprotective."
+	},
+	{
+		"Paper publish year": "2008",
+		"DOI": "https://doi.org/10.2174/187152708783885174",
+		"Category (Protein Mimetic)": "NCAM mimetic peptide",
+		"Mimic of which Protein": "NCAM (Neural Cell Adhesion Molecule)",
+		"Name of the Protein mimetic": "C3 (C3d)",
+		"Functions": "Induces neurite outgrowth and promotes survival of neurons",
+		"Activity": "Binds to NCAM IgI module, mimics NCAM homophilic binding, promotes CNS neuron survival, and neurite outgrowth"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1021/ja810025g",
+		"Category (Protein Mimetic)": "α-helix mimetic",
+		"Mimic of which Protein": "MDM2 (Mouse Double Minute 2 homolog) in its interaction with p53 (Tumor Protein p53)",
+		"Name of the Protein mimetic": "H₂N-Phe-[Trp]-Leu-OH",
+		"Functions": "designed to inhibit the binding of MDM2 to p53, which is crucial for regulating the cell cycle and preventing tumor formation.",
+		"Activity": "identified as a lead inhibitor with effective activity against MDM2/p53 binding, demonstrating a significant inhibitory effect (IC₅₀ < 50 μM)"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "18A",
+		"Functions": "Mimics the amphipathic helix of ApoA-I",
+		"Activity": "contained 18 amino acids and formed a class A amphipathic helix."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "2F",
+		"Functions": "stability and lipid-binding properties were improved",
+		"Activity": "mimicked many of the lipid binding properties of apoA-I but failed to alter lesions in a mouse model of atherosclerosis."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "4F",
+		"Functions": "Inhibits inflammation and improves HDL properties",
+		"Activity": "Administered as D-amino acid (D-4F) reduced atherosclerotic lesions in LDL receptor–null and apoE-null mice without altering plasma cholesterol levels. Improved anti-inflammatory properties in various conditions."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "5F",
+		"Functions": "Protects against atherosclerosis",
+		"Activity": "L-5F significantly protected mice from diet-induced atherosclerosis and improved HDL's anti-inflammatory properties."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "3F14",
+		"Functions": "did not reduce lesion area in apoE-null mice.",
+		"Activity": "Ineffective in scavenging lipid hydroperoxides; did not reduce lesion area in apoE-null mice."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "3F-2",
+		"Functions": "gnificantly reduced lesion area in apoE-null mice",
+		"Activity": "gnificantly reduced lesion area in apoE-null mice"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "4F-P-4F",
+		"Functions": "Enhances HDL remodeling",
+		"Activity": "Associated with all lipoprotein classes; improved HDL remodeling and cholesterol efflux, but not effective against LDL oxidation compared to single 4F peptide."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "apoE",
+		"Name of the Protein mimetic": "Ac-hE-18A-NH2",
+		"Functions": "reduces plasma cholesterol levels in WHHL rabbits and improves arterial endothelial function.",
+		"Activity": "Changes are associated with reduced plasma lipid hydroperoxide levels, an increase in paraoxonase-1 activity, and a reduction of superoxide anion levels."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "37pA",
+		"Functions": "could be used to construct nanoparticles for delivering MRI contrast agent into arteries to elucidate atherosclerotic plaque composition in a mouse model of atherosclerosis.",
+		"Activity": "contrast for the detection of atherosclerotic macrophages even though the larger peptide demonstrated better lipid-binding properties"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "L-4F",
+		"Functions": "ability to resist enzymatic degradation",
+		"Activity": "inhibit atherosclerotic lesions , binds niclosamide forming a very tight association that protects the peptide from trypsin digestion allowing L-4F absorption and biological activity after oral administration"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "ApoA-I",
+		"Name of the Protein mimetic": "D-4F",
+		"Functions": "ability to resist enzymatic degradation",
+		"Activity": "inhibit atherosclerotic lesions."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Peptides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "4–8 N-terminal residues of Smac",
+		"Functions": "targets MCF-7 breast cancer cells",
+		"Activity": "combines with Paclitaxel, etoposide, SN-38,\nor doxorubicin"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Peptides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "4 or 7 N-terminal residues of Smac",
+		"Functions": "targets  Human acute leukemia Jurkat T cells",
+		"Activity": "combines with Epothilone B derivative\n(BMS 247550) or Apo-2L/TRAIL"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Peptides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "6 N-terminal residues of Smac",
+		"Functions": "targets  HeLa cervical cancer cells",
+		"Activity": ""
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Peptides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "7 N-terminal residues of Smac",
+		"Functions": "targets  L428 and L540 human Hodgkin lymphoma cells",
+		"Activity": "combines with Granzyme B"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Peptides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "7 N-terminal residues of Smac with antenopedia sequence",
+		"Functions": "targets Caki-1 renal carcinoma cells",
+		"Activity": "combines with None or cisplatin"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Peptides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "7 N-terminal residues of Smac conjugated to 8 arginine residues",
+		"Functions": "targets Suit-2, CFPAC-1, Panc1, and BxPC-3 pancreatic cancer cells (a) H460 non-small-cell lung cancer, (b) H460 xenograft mouse model",
+		"Activity": "combines with (a) Cisplatin or taxol, (b) cisplatin"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Peptides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "7 N-terminal residues of Smac conjugated to the protein transduction domain of TAT protein",
+		"Functions": "targets (a) SHEP/Bcl-2 neuroblastoma, SH-SY5Y\nneuroblastoma, Mel-HO melanoma, Panc1\npancreatic carcinoma, (b) U87 MG human\nmalignant glioma xenograft mouse model",
+		"Activity": "combines with (a) TRAIL or doxorubicin, (b) TRAIL"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Polynucleotides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "Flag-C-tagged mature Smac pcDNA3.1",
+		"Functions": "targets K562 and CEM human leukaemic cells",
+		"Activity": "combines with Ultraviolet light or TRAIL"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Polynucleotides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "Flag-C-tagged full-length Smac",
+		"Functions": "targets NC65 and Caki-1 renal carcinoma cells",
+		"Activity": "combines with TRAIL or cisplatin"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+		"Category (Protein Mimetic)": "Polynucleotides",
+		"Mimic of which Protein": "Smac",
+		"Name of the Protein mimetic": "pcDNA3.1",
+		"Functions": "targets Human acute leukemia Jurkat T cells",
+		"Activity": "combines with Epothilone B derivative (BMS 247550) or Apo-2L/TRAIL"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "Recombinant protein mimetic",
+		"Mimic of which Protein": "Silk and elastin",
+		"Name of the Protein mimetic": "Silk-Elastin-Like Protein (SELP)",
+		"Functions": "Gene delivery",
+		"Activity": "Prolonged and localized expression of adenoviruses for up to 15 days"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "Triblock copolymer",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "LysB10",
+		"Functions": "Mechanical responses,  limited local inflammatory activity and displayed relatively thin fibrous capsules.\n",
+		"Activity": "Enhanced elastic modulus, reduced creep strain"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "Triblock copolymer",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "R4",
+		"Functions": "Mechanical responses,  limited local inflammatory activity and displayed relatively thin fibrous capsules.\n",
+		"Activity": "Enhanced elastic modulus, reduced creep strain"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "homopolymers or copolymers",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "VPGVG",
+		"Functions": "Mimics the natural flexibility and biocompatibility of elastin for implant-related applications",
+		"Activity": "Does not induce significant inflammatory or allergic reactions; not recognized as an antigenic epitope of elastin"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "homopolymers or copolymers",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "VPGKG",
+		"Functions": "Mimics elastin’s properties, particularly in relation to implant biocompatibility",
+		"Activity": "No significant inflammatory or allergic response reported"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "homopolymers or copolymers",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "VPGEG",
+		"Functions": "Used for implant-related applications, mimicking elastin's characteristics",
+		"Activity": "No significant inflammatory response observed"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "homopolymers or copolymers",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "IPAVG",
+		"Functions": "Mimics the biological properties of elastin in implant contexts",
+		"Activity": "Does not cause significant inflammatory reactions"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "homopolymers or copolymers",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "VPAVG",
+		"Functions": "Elastin mimetic, used for subcutaneous and intravitreal injections",
+		"Activity": "No inflammatory response observed after 28 days"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "homopolymers or copolymers",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "Chemically synthesized poly(GVGVP)",
+		"Functions": "Mimics the structural and functional properties of elastin, used in various implant routes (intravenous, intraocular, intramuscular, etc.)",
+		"Activity": "Did not induce toxicity; no immune response, but a fibrous capsule was noted after intramuscular implantation"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+		"Category (Protein Mimetic)": "homopolymers or copolymers",
+		"Mimic of which Protein": "Elastin",
+		"Name of the Protein mimetic": "Chemically synthesized poly(VPAVG)",
+		"Functions": "Mimics elastin for implant and injection applications (subcutaneous and intravitreal)",
+		"Activity": "No inflammatory response observed after 28 days, though retinal detachment was noted in some cases"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": " https://doi.org/10.1007/s11883-009-0008-8",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "Apolipoprotein A-I (apoA-I)",
+		"Name of the Protein mimetic": "4F Peptides",
+		"Functions": "Increases formation of pre-β HDL; enhances cholesterol efflux; reduces lipoprotein oxidation; improves antioxidants and vascular repair; reduces renal inflammation",
+		"Activity": "Improves vasodilation, oxidative stress, myocardial inflammation, and angiogenic potential in various models; reduces adiposity and improves insulin sensitivity in obese mice; improves HDL inflammatory properties in humans with coronary heart disease"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1002/bip.21164",
+		"Category (Protein Mimetic)": "Cyclic ligand-mimetic",
+		"Mimic of which Protein": "Arg-Gly-Asp (RGD) peptide",
+		"Name of the Protein mimetic": "Cilengitide",
+		"Functions": "Binds to and inhibits avβ3 and avβ5 integrins, inhibiting endothelial interactions and angiogenesis",
+		"Activity": "Currently in clinical trials for the treatment of glioblastoma"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1080/15419060801891034",
+		"Category (Protein Mimetic)": "Cx-mimetic peptides",
+		"Mimic of which Protein": "Cx43",
+		"Name of the Protein mimetic": "Gap 27/43",
+		"Functions": "Inhibits CxHc within minutes and gap junctions,  may be useful in reducing damage after spinal cord injury.",
+		"Activity": "inhibiting intercellular communication and antigen cross presentation in dendritic cells, T-cell activation and production of immunoglobulins and cytokines in mixed lymphocyte cultures"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1080/15419060801891034",
+		"Category (Protein Mimetic)": "Cx-mimetic peptides",
+		"Mimic of which Protein": "Cx43",
+		"Name of the Protein mimetic": "Gap 27/40",
+		"Functions": "Inhibits Cx40 gap junctions,  may be useful in reducing damage after spinal cord injury.",
+		"Activity": "inhibiting intercellular communication and antigen cross presentation in dendritic cells, T-cell activation and production of immunoglobulins and cytokines in mixed lymphocyte cultures"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1146/annurev.med.60.042307.181154",
+		"Category (Protein Mimetic)": "peptide mimetic",
+		"Mimic of which Protein": "TPO",
+		"Name of the Protein mimetic": "Romiplostim",
+		"Functions": "bind to and activate the TPO receptor, mimicking natural TPO and stimulating platelet production in the bone marrow. Dimerization of these mimetics enhances receptor activation.",
+		"Activity": "increase platelet production, have a long half-life (120–160 hours), and reduce the risk of immunogenicity by lacking homology with endogenous TPO."
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1146/annurev.med.60.042307.181154",
+		"Category (Protein Mimetic)": "Non peptide",
+		"Mimic of which Protein": "TPO",
+		"Name of the Protein mimetic": "Eltrombopag",
+		"Functions": "ffectively increasing platelet counts in patients with conditions such as immune thrombocytopenic purpura (ITP) and other forms of thrombocytopenia.",
+		"Activity": "specifically binds to the transmembrane domain of the TPO receptor, activating it to stimulate megakaryocyte proliferation and platelet production"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1080/15419060801891018",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "Connexin",
+		"Name of the Protein mimetic": "Gap24",
+		"Functions": "mimics Connexin ",
+		"Activity": "applied at 200 µM did not affect Cx32E143 channels but reversibly inhibited Panx1 channels, Carboxyfluorescein uptake\nby Cx32E143-expressing oocytes was unaffected by it"
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1080/15419060801891018",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "Connexin",
+		"Name of the Protein mimetic": "Gap26",
+		"Functions": "mimics Connexin ",
+		"Activity": "Inhibition of gap junction channel formation: Cx32E143 +   "
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1080/15419060801891018",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "Connexin",
+		"Name of the Protein mimetic": "Gap27",
+		"Functions": "mimics Connexin ",
+		"Activity": "Inhibition of gap junction channel formation: Cx43 +   "
+	},
+	{
+		"Paper publish year": "2009",
+		"DOI": "https://doi.org/10.1080/15419060801891018",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "pannexin",
+		"Name of the Protein mimetic": "Panx1",
+		"Functions": "“pseudospecificity”, the effect of the Panx1 peptide, like that of the connexinmimetic peptides, ",
+		"Activity": "inhibited Cx46 connexon currents, Carboxyfluorescein uptake\nby Cx32E143-expressing oocytes was unaffected by it"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1126/science.1182749",
+		"Category (Protein Mimetic)": "Peptidomimetic Antibiotics",
+		"Mimic of which Protein": "PG1",
+		"Name of the Protein mimetic": "L27-11",
+		"Functions": "spectrum of antimicrobial activity, including minimal inhibitory concentrations (MICs) in the nanomolar range against many Pseudomonas aeruginosa (PA) strains and other Pseudomonas spp.",
+		"Activity": "weakly active or inactive against other Grampositive and Gram-negative bacteria"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1126/science.1182749",
+		"Category (Protein Mimetic)": "Peptidomimetic Antibiotics",
+		"Mimic of which Protein": "PG1",
+		"Name of the Protein mimetic": "L26-19",
+		"Functions": "No fluorescence increase was apparent over 120 min when PA cells were exposed to it",
+		"Activity": "no notable lysis of human red blood cells at concentrations up to 100 mg/ml"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1134/S160767291005011X",
+		"Category (Protein Mimetic)": "dipeptide mimetics",
+		"Mimic of which Protein": "NGF",
+		"Name of the Protein mimetic": "GK-1",
+		"Functions": "exhibited neuroprotective activity in the concentration range 10–5 to 10–9 M",
+		"Activity": "at a concentration of 10–5 M attenuated the differentiating effect of NGF by 50%, exhibited the properties\nof a tyrosine kinase receptor antagonist"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1134/S160767291005011X",
+		"Category (Protein Mimetic)": "dipeptide mimetics",
+		"Mimic of which Protein": "NGF",
+		"Name of the Protein mimetic": "GK-2",
+		"Functions": "reduced the viability of neurons and suppressed the neuroprotective effect of GK2 and NGF",
+		"Activity": "GK2 at a concentration of 10–8 M increased the content of pTrkA, exhibited the properties\nof a tyrosine kinase receptor agonist"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1134/S160767291005011X",
+		"Category (Protein Mimetic)": "dipeptide mimetics",
+		"Mimic of which Protein": "NGF",
+		"Name of the Protein mimetic": "GK-5",
+		"Functions": "exhibited slight neuroprotective activity; however, they exerted differenti ating properties (caused elongation of PC12 cells and development of outgrowths on them)",
+		"Activity": "increased the amount of heat shock proteins"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1134/S160767291005011X",
+		"Category (Protein Mimetic)": "dipeptide mimetics",
+		"Mimic of which Protein": "NGF",
+		"Name of the Protein mimetic": "GK-6",
+		"Functions": "exhibited slight neuroprotective activity; however, they exerted differenti ating properties (caused elongation of PC12 cells and development of outgrowths on them)",
+		"Activity": "increased the amount of heat shock proteins"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1016/j.addr.2010.04.007",
+		"Category (Protein Mimetic)": "elastin-mimetic triblock copolymer",
+		"Mimic of which Protein": "elastin",
+		"Name of the Protein mimetic": "B9",
+		"Functions": "Drug delivery",
+		"Activity": "Monodisperse size distribution, spherical shape"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1016/j.addr.2010.04.007",
+		"Category (Protein Mimetic)": "elastin-mimetic triblock copolymer",
+		"Mimic of which Protein": "elastin",
+		"Name of the Protein mimetic": "B10",
+		"Functions": "Designed for drug delivery and biomedical applications",
+		"Activity": "Gel forming temperature is 5 degrees lower than B9  ,Exhibits viscoelastic properties with lower tan δ, indicating a more stable gel structure - Mechanical properties can be tuned through changes in midblock and endblock sizes"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1016/j.addr.2010.04.007",
+		"Category (Protein Mimetic)": "elastin-mimetic triblock copolymer",
+		"Mimic of which Protein": "elastin",
+		"Name of the Protein mimetic": "C5",
+		"Functions": "Designed for biomedical applications",
+		"Activity": "Gel forming temperature is 14.8 °C <br> - Exhibits lower viscosity compared to B9 <br> - Rheological behavior indicates less viscoelasticity compared to B9"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1016/j.addr.2010.04.007",
+		"Category (Protein Mimetic)": "elastin-mimetic triblock copolymer",
+		"Mimic of which Protein": "elastin",
+		"Name of the Protein mimetic": "LysB10",
+		"Functions": "Designed for drug delivery and biomedical applications",
+		"Activity": "Exhibits elastomeric behavior when chemically cross-linked <br> - Designed for enhanced mechanical properties and potential for drug delivery"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1016/j.addr.2010.04.007",
+		"Category (Protein Mimetic)": "elastin-mimetic triblock copolymer",
+		"Mimic of which Protein": "elastin",
+		"Name of the Protein mimetic": "R4",
+		"Functions": "Designed for drug delivery and biomedical applications",
+		"Activity": "Exhibits significantly different viscoelastic properties compared to LysB10 due to the more hydrophobic nature of the midblock <br> - Higher tan δ and complex viscosity indicate greater viscoelasticity, making it suitable for specific biomedical applications"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1016/j.biomaterials.2010.02.019",
+		"Category (Protein Mimetic)": "biomimetic ",
+		"Mimic of which Protein": "resilin",
+		"Name of the Protein mimetic": "rec1-resilin",
+		"Functions": "transformation from globule to coil to extended coil\nconformation, thus applications in many areas including biotechnology, medicine, sensors, controlled drug delivery systems and engineering",
+		"Activity": "binding ability of rec1-resilin on a substrate is strongly pH-dependent the protein, adsorbed onto the gold substrate with different orientation depending on pH, such as back-on adsorption at acidic pH of 2, compact end-on bilayer adsorption at the IEP and side-on at high alkaline pH of 12"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1002/jbm.a.32979",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "Collagen",
+		"Name of the Protein mimetic": "Gly-Phe-Hyp-GlyGlu-Arg (GFOGER",
+		"Functions": "major recognition site for α2β1 integrin binding, promoting robust integrin-mediated cell adhesion, osteoblastic differentiation, and bone repair",
+		"Activity": "promotes α2β1 integrin-mediated cell adhesion, osteoblastic differentiation, and enhances bone repair and implant integration"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1002/jbm.a.32979",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "Collagen",
+		"Name of the Protein mimetic": "DGEA",
+		"Functions": "a2b1 recognition sequence in type I c,1 although a\ndifferent study failed ",
+		"Activity": "inhibits the osteoblastic phenotype of rat bone marrow stromal cells cultured on type I collagen. DGEA-coated hydroxyapatite disks have promoted cell adhesion and upregulated osteoblast marker expression in mesenchymal stem cells in vitro."
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1002/jbm.a.32979",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "Collagen",
+		"Name of the Protein mimetic": "P15",
+		"Functions": "enhances cell adhesion, osteoblastic gene expression, and mineralization on anorganic bone matrix (ABM) in vitro and accelerates early bone formation in porcine and rat cranial defects",
+		"Activity": "improved new bone formation wen implanted into rat tibiae, P15 peptide-coated ABM has also been used in\nhuman periodontal osseous defects resulting in better\nclinical outcomes than open flap debridement alone and has\nalso been used in a pilot clinical study for long-bone\ndefects"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1073/pnas.1004261107",
+		"Category (Protein Mimetic)": "soluble trimeric peptide mimetic",
+		"Mimic of which Protein": "NHR region of the prehairpin intermediate- gp41",
+		"Name of the Protein mimetic": "IQN17",
+		"Functions": "mimicks NHR\nregion of the prehairpin intermediate",
+		"Activity": "NHR-binding inhibitors of HIV-1 infection using mirror image phage display, providing strong evidence that IQN17 presents the NHR region in the same structure as is present in the actual prehairpin intermediate"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1073/pnas.1004261107",
+		"Category (Protein Mimetic)": "chimeric",
+		"Mimic of which Protein": "gp41",
+		"Name of the Protein mimetic": "IZN17",
+		"Functions": "Immunogen",
+		"Activity": "dependent on self-association"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1073/pnas.1004261107",
+		"Category (Protein Mimetic)": "Peptide",
+		"Mimic of which Protein": "gp41",
+		"Name of the Protein mimetic": "(CCIZN17)3",
+		"Functions": "peptide is potentially a better immunogen than IZN17, ",
+		"Activity": "trimeric state of the peptide is not dependent on self-association as for IZN17, and the conformational epitope within the hydrophobic pocket is therefore expected to be present even at the highly diluted concentrations resulting from vaccination"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1073/pnas.1004261107",
+		"Category (Protein Mimetic)": "Peptide",
+		"Mimic of which Protein": "gp41",
+		"Name of the Protein mimetic": "(CCIPN17)3",
+		"Functions": "to shield the IZ scaffold from immune recognition in an attempt to minimize generation of antibodies against the nonrelevant portion of the peptide chimera, and subsequently focus the immune response against the NHR region. T",
+		"Activity": "binds D5 with an efficiency similar to (CCIZN17)3"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1073/pnas.1004261107",
+		"Category (Protein Mimetic)": "Peptide",
+		"Mimic of which Protein": "gp41",
+		"Name of the Protein mimetic": "(CCIZN36)3",
+		"Functions": "Peptide mimetics of a longer segment of the NHR",
+		"Activity": "elicit neutralizing antibody responses that can be detected in unfractionated serum from guinea pigs. T"
+	},
+	{
+		"Paper publish year": "2010",
+		"DOI": "https://doi.org/10.1073/pnas.1004261107",
+		"Category (Protein Mimetic)": "Peptide",
+		"Mimic of which Protein": "gp41",
+		"Name of the Protein mimetic": "(CCIPN36)3",
+		"Functions": "Peptide mimetics of a longer segment of the NHR",
+		"Activity": "elicit neutralizing antibody responses that can be detected in unfractionated serum from guinea pigs. T"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+		"Category (Protein Mimetic)": "Membrane protein mimetic",
+		"Mimic of which Protein": "arious Membrane Proteins (MPs), including integrin β3, transmembrane segments, and apoptotic protein BNip3.",
+		"Name of the Protein mimetic": "bichelles ",
+		"Functions": "Bicelles mimic membrane environments for studying membrane proteins",
+		"Activity": ""
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+		"Category (Protein Mimetic)": "Membrane protein mimetic",
+		"Mimic of which Protein": "Cytochrome P450, rhodopsin, voltage-sensing domain of KvAP",
+		"Name of the Protein mimetic": "Nanodiscs",
+		"Functions": "Reconstitute membrane proteins in a functional form within a stable and flat lipid bilayer",
+		"Activity": "Facilitate NMR studies of membrane proteins by providing a more native-like environment compared to micelles, with stable and tunable size for better structural and functional analysis."
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+		"Category (Protein Mimetic)": "Membrane protein mimetic",
+		"Mimic of which Protein": "Mitochondrial complex I, human GPCRs (BLT1 and BLT2), bacterial outer membrane proteins (OmpA and OmpX), bacteriorhodopsin, SR calcium ATPase, nicotinic acetylcholine receptor",
+		"Name of the Protein mimetic": "Amphipols",
+		"Functions": "Short amphipathic polymers that stabilize membrane proteins in aqueous solutions without disrupting their structure.",
+		"Activity": "Maintains protein solubility and activity, facilitating NMR studies with improved folding yields compared to detergents."
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+		"Category (Protein Mimetic)": "Membrane protein mimetic",
+		"Mimic of which Protein": "Potassium channel KcsA, lipid-anchored proteins (e.g., recoverin, HIV-1 matrix protein)",
+		"Name of the Protein mimetic": "Reverse Micelles",
+		"Functions": "Encapsulates proteins in a non-polar environment while retaining hydration.",
+		"Activity": "Used for studying proteins that require a low-viscosity environment, although they may not fully replicate native conditions."
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+		"Category (Protein Mimetic)": "Membrane protein mimetic",
+		"Mimic of which Protein": "Various transmembrane proteins, including EGF receptor, bacteriorhodopsin, magainin, protegrin, Influenza M2 channel, and others",
+		"Name of the Protein mimetic": "Multilamellar Vesicles",
+		"Functions": "Mimics cellular membranes with multiple lipid bilayers.",
+		"Activity": "Suitable for solid-state NMR studies, providing a concentrated lipid environment for embedded proteins."
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.cbpa.2011.02.015",
+		"Category (Protein Mimetic)": "b-hairpin mimetics",
+		"Mimic of which Protein": "LptD (outer membrane protein)",
+		"Name of the Protein mimetic": "",
+		"Functions": "Targets outer membrane biogenesis",
+		"Activity": "Inhibits LPS transport to the outer membrane"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.4049/jimmunol.1002847",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "Apolipoprotein E (apoE)",
+		"Name of the Protein mimetic": "COG1410",
+		"Functions": "Immunomodulatory",
+		"Activity": "Reduces TNF-a production; activates PP2A; inhibits NF-kB pathway; enhances PP2A activity in vivo."
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.4049/jimmunol.1002847",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "Apolipoprotein E (apoE)",
+		"Name of the Protein mimetic": "COG112",
+		"Functions": "Immunomodulatory",
+		"Activity": "Reduces activation of the NF-kB pathway; inhibits inflammatory responses."
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.4049/jimmunol.1002847",
+		"Category (Protein Mimetic)": "Peptide Mimetic",
+		"Mimic of which Protein": "Apolipoprotein E (apoE)",
+		"Name of the Protein mimetic": "apoE[133–149]",
+		"Functions": "Immunomodulatory",
+		"Activity": "uppresses microglial activation and inflammatory mediator secretion (e.g., TNF-a and IL-6); reduces serum TNF-a and IL-6 production in mice treated with LPS."
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+		"Category (Protein Mimetic)": "small-molecule BH3 mimetics",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "HA14-1",
+		"Functions": "Targets leukemia, myeloma, glioblastoma, prostate cancer",
+		"Activity": "Inhibits Bcl-2"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+		"Category (Protein Mimetic)": "small-molecule BH3 mimetics",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "BH3-Is",
+		"Functions": "Targets leukemia, prostate cancer, non-small cell lung cancer",
+		"Activity": "Inhibits Bcl-XL"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+		"Category (Protein Mimetic)": "small-molecule BH3 mimetics",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "Antimycin A",
+		"Functions": "Targets leukemia and cervical cancer",
+		"Activity": "Inhibits Bcl-2, Bcl-XL"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+		"Category (Protein Mimetic)": "small-molecule BH3 mimetics",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "Gossypol",
+		"Functions": "Targets leukemia, lymphoma, glioblastoma, prostate cancer",
+		"Activity": "Inhibits Bcl-2, Bcl-XL, Mcl-1"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+		"Category (Protein Mimetic)": "small-molecule BH3 mimetics",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "Apogossypol",
+		"Functions": "Targets leukemia, lymphoma, glioblastoma, prostate cancer",
+		"Activity": "Inhibits Bcl-2, Bcl-XL, Mcl-1"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+		"Category (Protein Mimetic)": "small-molecule BH3 mimetics",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "TW-37",
+		"Functions": "Targets leukemia, lymphoma, glioblastoma, prostate cancer",
+		"Activity": "Inhibits Bcl-2, Bcl-XL, Mcl-1"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+		"Category (Protein Mimetic)": "small-molecule BH3 mimetics",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "GX015-070",
+		"Functions": "Targets leukemia, lymphoma, myeloma, lung cancer",
+		"Activity": "Inhibits Bcl-2, Bcl-XL, Mcl-1"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+		"Category (Protein Mimetic)": "small-molecule BH3 mimetics",
+		"Mimic of which Protein": "BH3",
+		"Name of the Protein mimetic": "ABT-737",
+		"Functions": "Targets leukemia, lymphoma, lung cancer, breast cancer",
+		"Activity": "Inhibits Bcl-2, Bcl-XL, Bcl-w"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1021/jm101651b",
+		"Category (Protein Mimetic)": "Bivalent",
+		"Mimic of which Protein": "smac",
+		"Name of the Protein mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(1,4- phenylenebis(methylene))bis(1H-1,2,3-triazole-4,1- diyl))bis(phenylmethylene))bis(6-((S)-2-(methylamino)propanamido)-5- oxodecahydropyrrolo[1,2-a]azocine-3-carboxamide)",
+		"Functions": "Induces degradation of cIAP2",
+		"Activity": "Fails to induce caspase-3 processing at 30 nM"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1021/jm101651b",
+		"Category (Protein Mimetic)": "Bivalent",
+		"Mimic of which Protein": "smac",
+		"Name of the Protein mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(1,4-phenylenebis(ethane-2,1- diyl))bis(1H-1,2,3-triazole-4,1-diyl))bis(phenylmethylene))bis(6-((S)-2- (methylamino)propanamido)-5-oxodecahydropyrrolo[1,2-a]azocine-3- carboxamide)",
+		"Functions": "Induces degradation of cIAP1/2",
+		"Activity": "Limited effect on cIAP1 degradation at 30 nM"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1021/jm101651b",
+		"Category (Protein Mimetic)": "Bivalent",
+		"Mimic of which Protein": "smac",
+		"Name of the Protein mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(1,4- phenylenebis(propane-3,1-diyl))bis(1H-1,2,3-triazole-4,1- diyl))bis(phenylmethylene))bis(6-((S)-2-(methylamino)propanamido)-5- oxodecahydropyrrolo[1,2-a]azocine-3-carboxamide)",
+		"Functions": "Induces degradation of cIAP1",
+		"Activity": "Induces PARP cleavage and caspase-3 processing"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1021/jm101651b",
+		"Category (Protein Mimetic)": "Bivalent",
+		"Mimic of which Protein": "smac",
+		"Name of the Protein mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(1,4-phenylenebis(hexane-6,1-\ndiyl))bis(1H-1,2,3-triazole-4,1-diyl))bis(phenylmethylene))bis(6-((S)-2-\n(methylamino)propanamido)-5-oxodecahydropyrrolo[1,2-a]azocine-3-\ncarboxamide)",
+		"Functions": "Induces degradation of cIAP1/2",
+		"Activity": "Robust activity at low concentrations"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1021/jm101651b",
+		"Category (Protein Mimetic)": "Bivalent",
+		"Mimic of which Protein": "smac",
+		"Name of the Protein mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(oxybis(pentane-5,1- diyl))bis(1H-1,2,3-triazole-4,1-diyl))bis(phenylmethylene))bis(6-((S)-2- (methylamino)propanamido)-5-oxodecahydropyrrolo[1,2-a]azocine-3- carboxamide)",
+		"Functions": "Antagonist of IAPs",
+		"Activity": "Completely inhibits tumor growth in MDA-MB-231 xenografts"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1517/14728222.2011.640319",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "TSP1",
+		"Name of the Protein mimetic": "ABT-510",
+		"Functions": "anti-angiogenic at low nanomolar concentrations,  promising, but compromised by its short half life",
+		"Activity": "blocks angiogenesis and cancer progression in multiple preclinical models"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1517/14728222.2011.640319",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "TSP1",
+		"Name of the Protein mimetic": "ABT-526",
+		"Functions": "potent anti-angiogenic activity and clearance sufficient to allow testing in pre-clinical tumor models.",
+		"Activity": "Because of its slower clearance in primates, and higher water solubility the D-alloIle peptide, ABT-510 was chosen over its enantiomer, ABT-526, for human trials."
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1517/14728222.2011.640319",
+		"Category (Protein Mimetic)": "peptide",
+		"Mimic of which Protein": "TSP1",
+		"Name of the Protein mimetic": "ABT-898",
+		"Functions": "more stable and more potent",
+		"Activity": "active in the preclinical models of cancer, inflammatory disease and eye disease"
+	},
+	{
+		"Paper publish year": "2011",
+		"DOI": "https://doi.org/10.1016/j.ijmm.2010.04.020",
+		"Category (Protein Mimetic)": "synthetic heme– protein",
+		"Mimic of which Protein": "peroxidase",
+		"Name of the Protein mimetic": "FeIII–mimochrome VI,",
+		"Functions": "catalytic efficiency is comparable to that of native\nhorseradish peroxidase",
+		"Activity": "By the use of hydrogen peroxide, FeIII–mimochrome VI efficiently catalyzes the oxidation of several substrates, with a typical Michaelis–Menten mechanism and with several multiple turnovers , converts\nphenol to 4- and 2-nitrophenol in the\npresence of NO2\n and H2O2 in high\nyields. T"
+	}
+]
